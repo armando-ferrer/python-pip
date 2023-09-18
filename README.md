@@ -35,3 +35,16 @@ pip3 install -r requirements.txt
 python3 main.py
 deactivate
 ```
+## web-server Project
+
+Instrucciones para instalación de dependencias y ejecución del web-server
+
+```Shell
+git clone
+cd web-server
+python3 -m venv env
+source env/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
+deactivate
+```
